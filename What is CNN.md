@@ -45,7 +45,8 @@ CNN은 사진을 ‘모눈종이(픽셀)’ 로 본 뒤 **투명 도장(필터)*
 [-1  0 +1]
 ```
 
-![수직 엣지 감지 시각화](https://github.com/user-attachments/assets/f2809c76-4cb6-4591-9294-a1d7ae2b5454)
+![수직 엣지 감지 시각화]<img width="1037" height="594" alt="image" src="https://github.com/user-attachments/assets/e06efdaf-6858-4b7e-847b-7781099f7e1f" />
+
 
 ---
 
@@ -58,7 +59,8 @@ CNN은 사진을 ‘모눈종이(픽셀)’ 로 본 뒤 **투명 도장(필터)*
 [+1 +2 +1]
 ```
 
-![수평 엣지 감지 시각화](https://github.com/user-attachments/assets/bb4ad7ff-115f-44e0-8676-bf744880873b)
+![수평 엣지 감지 시각화](<img width="1037" height="591" alt="image" src="https://github.com/user-attachments/assets/eb24c0f0-c001-4104-8847-6c7036cca37c" />
+)
 
 ---
 
@@ -68,7 +70,8 @@ CNN은 사진을 ‘모눈종이(픽셀)’ 로 본 뒤 **투명 도장(필터)*
 * **평균 블러(BOX)** – 모두 1/9  
 * **가우시안 블러** – 가운데가 가장 큰 종모양
 
-![블러 필터 시각화](https://github.com/user-attachments/assets/3acaaa77-6a71-44cf-b5c1-d694a8288de3)
+![블러 필터 시각화]<img width="1040" height="593" alt="image" src="https://github.com/user-attachments/assets/45cb242f-376e-404a-b35a-ab9adb43b160" />
+
 
 ---
 
@@ -81,14 +84,16 @@ CNN은 사진을 ‘모눈종이(픽셀)’ 로 본 뒤 **투명 도장(필터)*
 [ 0 -1  0]
 ```
 
-![샤프닝 필터 시각화](https://github.com/user-attachments/assets/214dca4c-df1b-4f87-b14c-24c3bc5055a9)
+![샤프닝 필터 시각화]<img width="1041" height="589" alt="image" src="https://github.com/user-attachments/assets/965a6024-5408-4e1e-b288-0334e688738e" />
+
 
 ---
 
 ## 한눈에 보는 CNN + 필터 흐름
 다음 그림은 CNN 이미지 처리 파이프라인을 6단계로 정리한 예시입니다.
 
-![CNN 전체 파이프라인](https://github.com/user-attachments/assets/c94bacdc-23ae-4182-ad54-8d0edae52785)
+![CNN 전체 파이프라인]<img width="1043" height="471" alt="image" src="https://github.com/user-attachments/assets/5ef9bd6a-de4b-4475-afca-24b032a64056" />
+
 
 ---
 
